@@ -25,7 +25,9 @@ compile 'com.github.florent37:rxbeacon:1.0.0'
 
 # Credits
 
-Author: Florent Champigny
+Author: Florent Champigny [http://www.florentchampigny.com/](http://www.florentchampigny.com/)
+
+Blog : [http://www.tutos-android-france.com/](http://www.www.tutos-android-france.com/)
 
 <a href="https://plus.google.com/+florentchampigny">
   <img alt="Follow me on Google+"
@@ -35,10 +37,12 @@ Author: Florent Champigny
   <img alt="Follow me on Twitter"
        src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/twitter.png" />
 </a>
-<a href="https://fr.linkedin.com/in/florentchampigny">
+<a href="https://www.linkedin.com/in/florentchampigny">
   <img alt="Follow me on LinkedIn"
        src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/linkedin.png" />
 </a>
+
+
 
 # License
 
